@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="CreateNotes Home - Container 2">07757dc7db500010c7a3a3a948961934</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 13:35:41</sys_created_on>
+        <sys_id>35f6750bdb500010c7a3a3a948961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_row_35f6750bdb500010c7a3a3a948961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-09 13:35:41</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>73a07ff9db2d3fc02f68c5970596196a</instance_id>
+        <instance_name>dev86177</instance_name>
+        <name>sp_row_35f6750bdb500010c7a3a3a948961969</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="CreateNotes Home - Container 2">07757dc7db500010c7a3a3a948961934</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-09 13:35:41</sys_created_on><sys_id>35f6750bdb500010c7a3a3a948961969</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_row_35f6750bdb500010c7a3a3a948961969</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-09 13:35:41</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>-812919446</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>d4beb5b2dbd88010c7a3a3a9489619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 13:35:41</sys_created_on>
+        <sys_id>b9f6750bdb500010c7a3a3a94896196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16db0bb83020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-09 13:35:41</sys_updated_on>
+        <type>Row</type>
+        <update_guid>f1f6750b7f500010c97b6e747dbb6c6a</update_guid>
+        <update_guid_history>f1f6750b7f500010c97b6e747dbb6c6a:-812919446</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">3af8f9c7db500010c7a3a3a94896194a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 13:44:29</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>0d6381a78067440c94675f1b6ac45810</sys_id>
+        <sys_metadata>35f6750bdb500010c7a3a3a948961969</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_row_35f6750bdb500010c7a3a3a948961969</sys_update_name>
+        <sys_update_version display_value="sp_row_35f6750bdb500010c7a3a3a948961969">b9f6750bdb500010c7a3a3a94896196a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-09 13:44:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
